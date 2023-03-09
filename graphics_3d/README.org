@@ -1,6 +1,8 @@
 * Homework Due 3/9/2023
 https://replit.com/@qvzou/Sand-Castle-on-a-Beach#index.html
 
+Tried working with another one to see if entity works better, but it doesn't reposition all objects the way I want it and it would require me to change individual codes: https://replit.com/@qvzou/Sand-Castile-on-a-Beach-2
+
 * Instructions
 
 ** If you are presenting this unit:
